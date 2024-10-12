@@ -6,7 +6,7 @@ seaborn
 nltk
 regex
 scikit-learn
-from-root  # helps to find root folder
+from-root  # helps to find / locates root folder automatically
 google-cloud-storage
 fastapi==0.78.0
 uvicorn==0.18.3
