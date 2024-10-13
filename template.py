@@ -2,8 +2,6 @@ import os
 import logging
 from pathlib import Path
 
-from sqlalchemy.sql.operators import exists
-
 logging.basicConfig(
     level=logging.INFO,
     format='[%(asctime)s]: %(message)s:'
